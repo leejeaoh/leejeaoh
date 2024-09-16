@@ -27,3 +27,6 @@ to be expert in both software development and system design.
 # 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejeaoh&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 
+# 📚 Learning Sources
+https://www.learncpp.com/
+
