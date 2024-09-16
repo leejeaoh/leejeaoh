@@ -1,11 +1,11 @@
 # 👨🏻‍💻 About Me
 
-I am currently pursuing a major in Software Systems at Simon Fraser University, with a focus on C++/C programming and networking systems. 
-My goal is to build a strong foundation in data structures and algorithms using C++ and C, as well as deepen my understanding of networking architecture
-to be expert in both software development and system design. 
+I am currently pursuing a major in Software Systems at Simon Fraser University, focusing on C++/C programming and networking systems. 
+My goal is to build a strong foundation in data structures and algorithms using C++ and C, while also deepening my understanding of networking architecture 
+to become an expert in both software development and system design.
 
-This is my fresh start for my github and my coding journey after taking long break
-I hope I can gain many knowledge as soon as possible to build awsome projects together!
+This marks a fresh start for my GitHub and coding journey after taking a long break. 
+I am eager to gain knowledge quickly and create awesome projects along the way!
 
 # 💻 Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
