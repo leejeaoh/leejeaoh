@@ -27,5 +27,5 @@ I am eager to gain knowledge quickly and create awesome projects along the way!
 
 # 📚 Learning Sources
 https://www.learncpp.com/ <br/>
-https://www.udemy.com/course/beginning-c-plus-plus-programming/
-
+https://www.udemy.com/course/beginning-c-plus-plus-programming/ <br/>
+https://en.cppreference.com/w/
