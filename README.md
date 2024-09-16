@@ -27,4 +27,5 @@ I hope I can gain many knowledge as soon as possible to build awsome projects to
 
 # 📚 Learning Sources
 https://www.learncpp.com/
+https://www.udemy.com/course/beginning-c-plus-plus-programming/
 
