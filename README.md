@@ -7,7 +7,7 @@ to become an expert in both software development and system design.
 This marks a fresh start for my GitHub and coding journey after taking a long break. 
 I am eager to gain knowledge quickly and create awesome projects along the way!
 
-Current Semester Focuses : C++, Kotlin, Writting
+Current Semester Focuses : C++, Python
 
 # 💻 Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
